@@ -1,0 +1,29 @@
+body{
+    font-family: 'roboto', sans-serif;
+    background-color: rgb(144, 135, 141);
+    color: rgb(92, 22, 177);
+    justify-content: center;
+    font-weight: bolder;
+    line-height: 32px;
+    /* letter-spacing: 5px; */
+}
+button{
+    color: #269d3a;
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+    translate: all 0.255;
+}
+
+button:hover{
+    border-color: #5cffa3;
+    color: rgb(140, 193, 214);
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform: translatey(-0.25em);
+}
+h1{
+    color: rgb(14, 129, 87);
+    font-size: 100px;
+    padding: 70px 1px 0 2px;
+    font-family: ;
+}
